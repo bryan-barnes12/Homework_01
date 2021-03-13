@@ -1,3 +1,4 @@
+/* Reset element */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header and Nav style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +49,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Main content styling */
 
 p {
     font-size: 16px;
